@@ -1,0 +1,12 @@
+{
+  "snapshot_date": "2026-11-07",
+  "batch_count": 9,
+  "cluster_count": 20,
+  "distribution_coverage_batches": {
+    "cluster": 9,
+    "context": 9,
+    "tag": 9
+  },
+  "feature_reference": "one representative valid-scene batch",
+  "privacy": "Only aggregate counts, rates and anonymized batch/cluster identifiers are included."
+}
