@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Credentials and private keys
+*.key
+*.pem
+credentials.*
+secrets.*
+
+# Tool caches and reports
+.coverage
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+htmlcov/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Local data and generated artifacts
+artifacts/
+data/
+models/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/

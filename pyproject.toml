@@ -1,0 +1,23 @@
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+force-exclude = true
+extend-exclude = ["artifacts", "data", "models"]
+
+[tool.ruff.lint]
+select = [
+    "B",   # flake8-bugbear
+    "E4",  # pycodestyle imports
+    "E7",  # pycodestyle statements
+    "E9",  # pycodestyle runtime errors
+    "F",   # Pyflakes
+    "I",   # isort
+    "SIM", # flake8-simplify
+    "UP",  # pyupgrade
+]
+
+[tool.ruff.format]
+docstring-code-format = true
+indent-style = "space"
+line-ending = "lf"
+quote-style = "double"
