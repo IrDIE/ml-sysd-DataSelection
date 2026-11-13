@@ -30,7 +30,12 @@ htmlcov/
 
 # Local data and generated artifacts
 artifacts/
-data/
+data/*
+!data/eda/
+data/eda/*
+!data/eda/*.csv
+!data/eda/*.json
+!data/eda/README.md
 models/
 
 # Editors and operating systems

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="580" viewBox="0 0 920 580">
+<rect width="920" height="580" fill="#ffffff"/>
+<text x="36.0" y="38.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="700" fill="#172033">Acceptance rate по semantic context</text>
+<text x="36.0" y="62.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#526277">Редкие приоритетные контексты намеренно получают более высокий шанс включения.</text>
+<text x="213.0" y="115.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">none</text>
+<rect x="225" y="95" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="95" width="115.4" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="114.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">18.9%</text>
+<text x="233.0" y="114.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=430 тыс.</text>
+<text x="213.0" y="158.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">lead_vehicle</text>
+<rect x="225" y="138" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="138" width="122.6" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="157.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">20.1%</text>
+<text x="233.0" y="157.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=388 тыс.</text>
+<text x="213.0" y="201.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">human_ahead</text>
+<rect x="225" y="181" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="181" width="134.2" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="200.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">22.0%</text>
+<text x="233.0" y="200.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=312 тыс.</text>
+<text x="213.0" y="244.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">intersection_ahead</text>
+<rect x="225" y="224" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="224" width="171.0" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="243.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">28.0%</text>
+<text x="233.0" y="243.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=253 тыс.</text>
+<text x="213.0" y="287.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">tl_red_at_anchor</text>
+<rect x="225" y="267" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="267" width="230.1" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="286.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">37.7%</text>
+<text x="233.0" y="286.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=162 тыс.</text>
+<text x="213.0" y="330.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">unprotected_left</text>
+<rect x="225" y="310" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="310" width="298.5" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="329.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">48.9%</text>
+<text x="233.0" y="329.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=58 тыс.</text>
+<text x="213.0" y="373.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">lane_change_left</text>
+<rect x="225" y="353" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="353" width="395.5" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="372.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">64.8%</text>
+<text x="233.0" y="372.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=106 тыс.</text>
+<text x="213.0" y="416.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">lane_change_right</text>
+<rect x="225" y="396" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="396" width="455.1" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="415.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">74.6%</text>
+<text x="233.0" y="415.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=83 тыс.</text>
+<text x="213.0" y="459.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">yield_unsignalized</text>
+<rect x="225" y="439" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="439" width="610.0" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="458.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">100.0%</text>
+<text x="233.0" y="458.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=2 тыс.</text>
+<text x="213.0" y="502.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#172033">yield_with_agent</text>
+<rect x="225" y="482" width="610" height="27" rx="4" fill="#edf2f7"/>
+<rect x="225" y="482" width="610.0" height="27" rx="4" fill="#0f9f6e"/>
+<text x="845.0" y="501.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">100.0%</text>
+<text x="233.0" y="501.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#172033">n=3 тыс.</text>
+</svg>
