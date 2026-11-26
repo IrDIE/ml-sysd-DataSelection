@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="500" viewBox="0 0 920 500">
+<rect width="920" height="500" fill="#ffffff"/>
+<text x="36.0" y="38.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="700" fill="#172033">Воронка подготовки данных</text>
+<text x="36.0" y="62.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#526277">Сумма по девяти обезличенным батчам; одна сцена может состоять из нескольких строк.</text>
+<text x="206.0" y="113.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">Исходные строки</text>
+<rect x="220" y="92" width="600.0" height="29" rx="4" fill="#2563eb" opacity="0.9"/>
+<text x="830.0" y="112.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">8.44 млн</text>
+<text x="206.0" y="160.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">Собранные сцены</text>
+<rect x="220" y="139" width="359.4" height="29" rx="4" fill="#2563eb" opacity="0.9"/>
+<text x="589.4" y="159.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">5.06 млн</text>
+<text x="206.0" y="207.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">Прошли quality gate</text>
+<rect x="220" y="186" width="357.8" height="29" rx="4" fill="#2563eb" opacity="0.9"/>
+<text x="587.8" y="206.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">5.03 млн</text>
+<text x="206.0" y="254.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">Получили cluster</text>
+<rect x="220" y="233" width="357.8" height="29" rx="4" fill="#2563eb" opacity="0.9"/>
+<text x="587.8" y="253.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">5.03 млн</text>
+<text x="206.0" y="301.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">Кандидаты</text>
+<rect x="220" y="280" width="357.8" height="29" rx="4" fill="#2563eb" opacity="0.9"/>
+<text x="587.8" y="300.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">5.03 млн</text>
+<text x="206.0" y="348.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">После ride cap</text>
+<rect x="220" y="327" width="127.7" height="29" rx="4" fill="#2563eb" opacity="0.9"/>
+<text x="357.7" y="347.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">1.80 млн</text>
+<text x="206.0" y="395.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">Приняты</text>
+<rect x="220" y="374" width="37.3" height="29" rx="4" fill="#0f9f6e" opacity="0.9"/>
+<text x="267.3" y="394.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">524 тыс.</text>
+<text x="206.0" y="442.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="400" fill="#172033">В selected index</text>
+<rect x="220" y="421" width="37.3" height="29" rx="4" fill="#0f9f6e" opacity="0.9"/>
+<text x="267.3" y="441.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="13" font-weight="600" fill="#172033">524 тыс.</text>
+</svg>

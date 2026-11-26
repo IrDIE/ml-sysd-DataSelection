@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="520" viewBox="0 0 1060 520">
+<rect width="1060" height="520" fill="#ffffff"/>
+<text x="36.0" y="38.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="21" font-weight="700" fill="#172033">Баланс trajectory clusters до и после отбора</text>
+<text x="36.0" y="62.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="12" font-weight="400" fill="#526277">Кластеры обезличены и отсортированы по размеру исходной популяции.</text>
+<line x1="70" y1="420.0" x2="1010" y2="420.0" stroke="#d9e2ec"/>
+<text x="61.0" y="424.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#526277">0%</text>
+<line x1="70" y1="341.2" x2="1010" y2="341.2" stroke="#d9e2ec"/>
+<text x="61.0" y="345.2" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#526277">5%</text>
+<line x1="70" y1="262.5" x2="1010" y2="262.5" stroke="#d9e2ec"/>
+<text x="61.0" y="266.5" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#526277">9%</text>
+<line x1="70" y1="183.8" x2="1010" y2="183.8" stroke="#d9e2ec"/>
+<text x="61.0" y="187.8" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#526277">14%</text>
+<line x1="70" y1="105.0" x2="1010" y2="105.0" stroke="#d9e2ec"/>
+<text x="61.0" y="109.0" text-anchor="end" font-family="Inter,Arial,sans-serif" font-size="10" font-weight="400" fill="#526277">19%</text>
+<rect x="77.5" y="133.6" width="16.0" height="286.4" fill="#64748b"/>
+<rect x="93.5" y="301.9" width="16.0" height="118.1" fill="#2563eb"/>
+<text x="93.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C00</text>
+<rect x="124.5" y="250.1" width="16.0" height="169.9" fill="#64748b"/>
+<rect x="140.5" y="310.4" width="16.0" height="109.6" fill="#2563eb"/>
+<text x="140.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C02</text>
+<rect x="171.5" y="257.1" width="16.0" height="162.9" fill="#64748b"/>
+<rect x="187.5" y="316.4" width="16.0" height="103.6" fill="#2563eb"/>
+<text x="187.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C18</text>
+<rect x="218.5" y="274.5" width="16.0" height="145.5" fill="#64748b"/>
+<rect x="234.5" y="322.9" width="16.0" height="97.1" fill="#2563eb"/>
+<text x="234.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C03</text>
+<rect x="265.5" y="285.4" width="16.0" height="134.6" fill="#64748b"/>
+<rect x="281.5" y="309.2" width="16.0" height="110.8" fill="#2563eb"/>
+<text x="281.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C06</text>
+<rect x="312.5" y="290.9" width="16.0" height="129.1" fill="#64748b"/>
+<rect x="328.5" y="325.4" width="16.0" height="94.6" fill="#2563eb"/>
+<text x="328.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C01</text>
+<rect x="359.5" y="295.9" width="16.0" height="124.1" fill="#64748b"/>
+<rect x="375.5" y="323.8" width="16.0" height="96.2" fill="#2563eb"/>
+<text x="375.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C11</text>
+<rect x="406.5" y="312.1" width="16.0" height="107.9" fill="#64748b"/>
+<rect x="422.5" y="328.9" width="16.0" height="91.1" fill="#2563eb"/>
+<text x="422.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C12</text>
+<rect x="453.5" y="319.2" width="16.0" height="100.8" fill="#64748b"/>
+<rect x="469.5" y="334.0" width="16.0" height="86.0" fill="#2563eb"/>
+<text x="469.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C09</text>
+<rect x="500.5" y="341.0" width="16.0" height="79.0" fill="#64748b"/>
+<rect x="516.5" y="344.8" width="16.0" height="75.2" fill="#2563eb"/>
+<text x="516.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C07</text>
+<rect x="547.5" y="377.6" width="16.0" height="42.4" fill="#64748b"/>
+<rect x="563.5" y="331.9" width="16.0" height="88.1" fill="#2563eb"/>
+<text x="563.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C10</text>
+<rect x="594.5" y="380.6" width="16.0" height="39.4" fill="#64748b"/>
+<rect x="610.5" y="323.0" width="16.0" height="97.0" fill="#2563eb"/>
+<text x="610.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C15</text>
+<rect x="641.5" y="388.6" width="16.0" height="31.4" fill="#64748b"/>
+<rect x="657.5" y="387.6" width="16.0" height="32.4" fill="#2563eb"/>
+<text x="657.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C05</text>
+<rect x="688.5" y="391.7" width="16.0" height="28.3" fill="#64748b"/>
+<rect x="704.5" y="335.3" width="16.0" height="84.7" fill="#2563eb"/>
+<text x="704.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C14</text>
+<rect x="735.5" y="392.6" width="16.0" height="27.4" fill="#64748b"/>
+<rect x="751.5" y="370.7" width="16.0" height="49.3" fill="#2563eb"/>
+<text x="751.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C13</text>
+<rect x="782.5" y="397.1" width="16.0" height="22.9" fill="#64748b"/>
+<rect x="798.5" y="336.4" width="16.0" height="83.6" fill="#2563eb"/>
+<text x="798.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C08</text>
+<rect x="829.5" y="397.4" width="16.0" height="22.6" fill="#64748b"/>
+<rect x="845.5" y="318.9" width="16.0" height="101.1" fill="#2563eb"/>
+<text x="845.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C19</text>
+<rect x="876.5" y="403.0" width="16.0" height="17.0" fill="#64748b"/>
+<rect x="892.5" y="339.7" width="16.0" height="80.3" fill="#2563eb"/>
+<text x="892.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C17</text>
+<rect x="923.5" y="404.1" width="16.0" height="15.9" fill="#64748b"/>
+<rect x="939.5" y="334.0" width="16.0" height="86.0" fill="#2563eb"/>
+<text x="939.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C16</text>
+<rect x="970.5" y="416.4" width="16.0" height="3.6" fill="#64748b"/>
+<rect x="986.5" y="414.0" width="16.0" height="6.0" fill="#2563eb"/>
+<text x="986.5" y="442.0" text-anchor="middle" font-family="Inter,Arial,sans-serif" font-size="9" font-weight="400" fill="#172033">C04</text>
+<rect x="730" y="80" width="13" height="13" fill="#64748b"/>
+<text x="750.0" y="91.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="400" fill="#172033">до отбора</text>
+<rect x="825" y="80" width="13" height="13" fill="#2563eb"/>
+<text x="845.0" y="91.0" text-anchor="start" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="400" fill="#172033">selected index</text>
+</svg>
